@@ -7,5 +7,4 @@ Setup webpack
 
 
 Run project : npm run dev
-
 Build project: npm run build
